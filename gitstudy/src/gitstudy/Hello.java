@@ -2,6 +2,6 @@ package gitstudy;
 
 public class Hello {
 public static void main(String[] args) {
-	System.out.println("895649");
+	System.out.println("79648");
 }
 }
