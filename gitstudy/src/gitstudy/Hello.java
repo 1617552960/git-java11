@@ -6,5 +6,12 @@ public static void main(String[] args) {
 	System.out.println("123456789");
 	System.out.println("1856");
 	System.out.println("8998");
+	System.out.println("8886");
+	
+
+	
+
 }
+
+
 }
